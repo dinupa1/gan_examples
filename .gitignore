@@ -1,0 +1,13 @@
+*.png
+*.yaml
+archive/
+data/
+imgs/
+outputs/
+.DS_Store
+DS_Interview_Problems_April2026.pdf
+american-physics-society.csl
+jlab_ds_problem_2_gan.pdf
+preamble.tex
+references.bib
+slides.md
